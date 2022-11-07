@@ -1,3 +1,8 @@
+<!-- Welcoming Section  -->
+<div align="center">
+  <img src="https://i.imgur.com/JNWueOo.png" alt="Banner"/>
+</div>
+
 <!-- The Odin Project: Foundation Introduction Section -->
 <div align="center">
   <h3>The Odin Project: Foundations</h3>
