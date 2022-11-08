@@ -17,37 +17,21 @@
 </div>
 
 <!-- Content Section -->
-<div align="center" >
-  <table>
-    <tr>
-      <th>Day</th>
-      <th>Subject</th>
-      <th>Notebooks, links, additional resources, & etc.</th>
-      <th>Notion notes</th>
-    <!-- Table Conetnts Here -->
-    </tr>
-    <tr>
-      <td align="center">1</td>
-      <td align="center"><a href="https://www.theodinproject.com/lessons/foundations-how-this-course-will-work">How this Course wiill work?</a></td>
-      <td align="center">
-        None
-      </td>
-      <td align="center">
-        None
-      </td>
-    </tr>
-    <!-- Table Conetnts Here -->
-    <tr>
-      <td align="center">1</td>
-      <td align="center"><a href="https://www.theodinproject.com/lessons/foundations-introduction-to-web-development">Introduction To Web Development
-</a></td>
-      <td align="center">
-        <p>1. <a href="https://www.quora.com/Computer-Programming/How-can-I-become-a-really-good-web-developer-starting-from-now-at-age-20-before-age-25">How can I become a really good web developer starting from now?</a></p>
-        <p>2. <a href="https://www.quora.com/What-makes-an-excellent-web-developer-What-qualities-do-people-look-for-in-their-staff-consultants-and-freelance-contractors-when-they-hire-a-web-developer-to-build-a-Web-site">What makes an excellent web developer?</a></p>
-      </td>
-      <td align="center">
-        <a href="https://ynoecode.notion.site/The-Odin-Project-Foundation-cbfdb636e422438a81163de6a9f544c6">Click here</a>
-      </td>
-    </tr>
-  </table>
+<div align="left">
+  <details>
+      <summary>1. How This Course Will Work?</summary>
+      <div>No Notes</div>
+  </details>
+  <details>
+      <summary>2. Introduction To Web Development</summary>
+      <div>Notes:</div>
+      <ul>
+        <li>1. What makes an excellent web developer?
+          <ul>
+            <li><strong>The ability to learn</strong> – this is the quality I value most in a developer. No of what skill set you claim to have or can convincingly demonstrate to me that you possess, my main concern is whether you'll be able to pick up new skills given how quickly the web is evolving.</li>
+             <li><strong>Has excellent communication skills</strong> – even if those clients are internal to the firm, you will inevitably have to deal with them, therefore you need to be able to communicate professionally and listen well. You will almost certainly interact with clients, and the last person I want to represent the developers and the clients is someone who can't or won't do so well. Business is about relationships, and communication is a key component of partnerships. I could certainly hide one antisocial prodigy within a team, but I'd rather not as it would definitely lower morale.</li>
+          </ul>
+        </li>
+      </ul>
+  </details>
 </div>
