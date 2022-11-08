@@ -31,6 +31,7 @@
             <li><strong>The ability to learn</strong> – this is the quality I value most in a developer. No of what skill set you claim to have or can convincingly demonstrate to me that you possess, my main concern is whether you'll be able to pick up new skills given how quickly the web is evolving.</li>
             <li><strong>Has excellent communication skills</strong> – even if those clients are internal to the firm, you will inevitably have to deal with them, therefore you need to be able to communicate professionally and listen well. You will almost certainly interact with clients, and the last person I want to represent the developers and the clients is someone who can't or won't do so well. Business is about relationships, and communication is a key component of partnerships. I could certainly hide one antisocial prodigy within a team, but I'd rather not as it would definitely lower morale.</li>
             <li><strong>Willingness to learn new technologies</strong> – The world of software development is always evolving. Instead than concentrating on your present stack, develop your talents.</li>
+            <li><strong>Must not do overengineering</strong> – Prevent it. Really. I've seen initiatives fail because the greatest answer possible was intended to handle every edge situation perfectly. The outcome is an intricate monster. Once you have genuine consumer feedback, go on to more complex usecases. I made a mistake that I now know better. One error I frequently observed others making.</li>
           </ul>
         </li>
       </ul>
