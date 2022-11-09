@@ -41,3 +41,7 @@
       <div>No Notes</div>
   </details>
 </div>
+
+
+<hr />
+<div align="center">This course note will be resume soon.</div>
