@@ -26,7 +26,7 @@
       <summary>2. Introduction To Web Development</summary>
       <div>Notes:</div>
       <ul>
-        <li>1. What makes an excellent web developer?
+        <li>What makes an excellent web developer?
           <ul>
             <li><strong>The ability to learn</strong> – this is the quality I value most in a developer. No of what skill set you claim to have or can convincingly demonstrate to me that you possess, my main concern is whether you'll be able to pick up new skills given how quickly the web is evolving.</li>
             <li><strong>Has excellent communication skills</strong> – even if those clients are internal to the firm, you will inevitably have to deal with them, therefore you need to be able to communicate professionally and listen well. You will almost certainly interact with clients, and the last person I want to represent the developers and the clients is someone who can't or won't do so well. Business is about relationships, and communication is a key component of partnerships. I could certainly hide one antisocial prodigy within a team, but I'd rather not as it would definitely lower morale.</li>
@@ -35,5 +35,9 @@
           </ul>
         </li>
       </ul>
+  </details>
+  <details>
+      <summary>3. Motivation And Mindset</summary>
+      <div>No Notes</div>
   </details>
 </div>
